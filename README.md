@@ -51,8 +51,10 @@ Assalamu'alaikum
 Keep up to date
 ~
 </p>
-<a href="https://l.instagram.com/?u=https%3A%2F%2Fyoutube.com%2F%40deaafrizal&e=AT26_ql8YQd9zSuLx1J2jg86NOj63oleN60UqwkwungVjLYqaypcCcGdoq54RZDC90j6wbz0PT98u3cOCVseVDcJfTDxrORW">YOU TUBE NYA BANG DEA</a>
-<a href="https://www.instagram.com/dea.afrizal/">IG NYA BANG DEA</a>
+<ol>
+<li><a href="https://l.instagram.com/?u=https%3A%2F%2Fyoutube.com%2F%40deaafrizal&e=AT26_ql8YQd9zSuLx1J2jg86NOj63oleN60UqwkwungVjLYqaypcCcGdoq54RZDC90j6wbz0PT98u3cOCVseVDcJfTDxrORW">YOU TUBE NYA BANG DEA</a></li>
+<li><a href="https://www.instagram.com/dea.afrizal/">IG NYA BANG DEA</a></li>
+</ol>
 
 # MODIFIER
 <h5>USA'ID AKMAL</h5>
