@@ -29,6 +29,8 @@ $user@terminal:<b>python3 GameMoleRat.py</b>
     <li><b>Tebak atau Analisa Lubang yang mana yang di tempati si CUYPY(Si Tikus Tanah)</b></li>
     <li><b>Beri Sedikit Tanggapan</b></li>
 </ol>
+<br>
+<br>
 
 
 # Game MOLEGAME
