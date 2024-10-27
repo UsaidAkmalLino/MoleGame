@@ -22,6 +22,14 @@ $user@terminal:<b>python3 GameMoleRat.py</b>
       
 [+] MASUKAN NAMA KAMU :
 </pre>
+<br>
+<br>
+# Game MOLEGAME
+Script ini adalah game tebak lubang berbasis Python. Kamu dapat mencoba menjalankannya langsung di Google Colab melalui link di bawah ini:
+
+[Klik di sini untuk menjalankan game di Google Colab](https://colab.research.google.com/drive/1n7bqvy1QxBf0PdfJKLAlJ7QtMFtYJKIc?usp=sharing)
+<br>
+<br>
 
 # Cara Bermain MOLEGAME
 <ol>
@@ -32,8 +40,23 @@ $user@terminal:<b>python3 GameMoleRat.py</b>
 <br>
 <br>
 
+# AUTHOR
+<h1>DEA AFRIZAL</h1>
+<p>Dea Afrizal 〰️
+Digital creator
+Lorem ipsum
+Dolor Sit Amet
+Assalamu'alaikum
+Keep up to date
+~
+</p>
+<a href="https://l.instagram.com/?u=https%3A%2F%2Fyoutube.com%2F%40deaafrizal&e=AT26_ql8YQd9zSuLx1J2jg86NOj63oleN60UqwkwungVjLYqaypcCcGdoq54RZDC90j6wbz0PT98u3cOCVseVDcJfTDxrORW">YOU TUBE NYA BANG DEA</a>
+<a href="https://www.instagram.com/dea.afrizal/">IG NYA BANG DEA</a>
 
-# Game MOLEGAME
-Script ini adalah game tebak lubang berbasis Python. Kamu dapat mencoba menjalankannya langsung di Google Colab melalui link di bawah ini:
+# MODIFIER
+<h1>USA'ID AKMAL</h1>
+<p>this is a fun game with python programming language</p>
 
-[Klik di sini untuk menjalankan game di Google Colab](https://colab.research.google.com/drive/1n7bqvy1QxBf0PdfJKLAlJ7QtMFtYJKIc?usp=sharing)
+
+
+
