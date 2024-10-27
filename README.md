@@ -24,11 +24,11 @@ $user@terminal:<b>python3 GameMoleRat.py</b>
 </pre>
 
 # Cara Bermain MOLEGAME
-<li>
-    <ul><b>Masukan Nama Kamu(BEBAS)</b></ul>
-    <ul><b>Tebak atau Analisa Lubang yang mana yang di tempati si CUYPY(Si Tikus Tanah)</b></ul>
-    <ul><b>Beri Sedikit Tanggapan</b></ul>
-</li>
+<ol>
+    <li><b>Masukan Nama Kamu(BEBAS)</b></li>
+    <li><b>Tebak atau Analisa Lubang yang mana yang di tempati si CUYPY(Si Tikus Tanah)</b></li>
+    <li><b>Beri Sedikit Tanggapan</b></li>
+</ol>
 
 
 # Game MOLEGAME
