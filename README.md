@@ -22,3 +22,8 @@ $user@terminal:<b>python3 GameMoleRat.py</b>
       
 [+] MASUKAN NAMA KAMU :
 </pre>
+
+# Game Tebak Lubang
+Script ini adalah game tebak lubang berbasis Python. Kamu dapat mencoba menjalankannya langsung di Google Colab melalui link di bawah ini:
+
+[Klik di sini untuk menjalankan game di Google Colab](https://colab.research.google.com/drive/1n7bqvy1QxBf0PdfJKLAlJ7QtMFtYJKIc?usp=sharing)
