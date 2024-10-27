@@ -1,10 +1,10 @@
 # MoleGame
 Game sederhana yang dbuat untuk mengimplementasikan hasil pembelajaran dari playlist CuyUnivesity by Bang @DeaAfrizal, untuk cara memainkanya ada di bawah ya,thank you :)
 
-#WELCOME TO MOLEGAME
+# WELCOME TO MOLEGAME
 
 <pre>
-python3 GameMoleRat.py
+$user@terminal:<b>python3 GameMoleRat.py</b>
 
     _________________________________________________
     |                                               |\ 
