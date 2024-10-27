@@ -42,7 +42,7 @@ Script ini adalah game tebak lubang berbasis Python. Kamu dapat mencoba menjalan
 <br>
 
 # AUTHOR
-<h1>DEA AFRIZAL</h1>
+<h5>DEA AFRIZAL</h5>
 <p>Dea Afrizal 〰️
 Digital creator
 Lorem ipsum
@@ -55,7 +55,7 @@ Keep up to date
 <a href="https://www.instagram.com/dea.afrizal/">IG NYA BANG DEA</a>
 
 # MODIFIER
-<h1>USA'ID AKMAL</h1>
+<h5>USA'ID AKMAL</h5>
 <p>this is a fun game with python programming language</p>
 
 
