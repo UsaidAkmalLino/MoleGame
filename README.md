@@ -23,7 +23,15 @@ $user@terminal:<b>python3 GameMoleRat.py</b>
 [+] MASUKAN NAMA KAMU :
 </pre>
 
-# Game Tebak Lubang
+# Cara Bermain MOLEGAME
+<li>
+    <ul><b>Masukan Nama Kamu(BEBAS)</b></ul>
+    <ul><b>Tebak atau Analisa Lubang yang mana yang di tempati si CUYPY(Si Tikus Tanah)</b></ul>
+    <ul><b>Beri Sedikit Tanggapan</b></ul>
+</li>
+
+
+# Game MOLEGAME
 Script ini adalah game tebak lubang berbasis Python. Kamu dapat mencoba menjalankannya langsung di Google Colab melalui link di bawah ini:
 
 [Klik di sini untuk menjalankan game di Google Colab](https://colab.research.google.com/drive/1n7bqvy1QxBf0PdfJKLAlJ7QtMFtYJKIc?usp=sharing)
