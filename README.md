@@ -28,7 +28,7 @@ $user@terminal:<b>python3 GameMoleRat.py</b>
 # Game MOLEGAME
 Script ini adalah game tebak lubang berbasis Python. Kamu dapat mencoba menjalankannya langsung di Google Colab melalui link di bawah ini:
 
-[Klik di sini untuk menjalankan game di Google Colab](https://colab.research.google.com/drive/1n7bqvy1QxBf0PdfJKLAlJ7QtMFtYJKIc?usp=sharing)
+[Klik di sini untuk menjalankan game di Google Colab](https://colab.research.google.com/github/UsaidAkmalLino/MoleGame/blob/main/GameMoleRat.ipynb)
 <br>
 <br>
 
