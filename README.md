@@ -33,6 +33,7 @@ Script ini adalah game tebak lubang berbasis Python. Kamu dapat mencoba menjalan
 <br>
 
 # Cara Bermain MOLEGAME
+<br>
 <ol>
     <li><b>clone repository git@github.com: UsaidAkmalLino/MoleGame.git</b></li><br>
     <li><b>masuk kedalam repo yang sudah di clone</b></li><br>
