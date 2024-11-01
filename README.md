@@ -50,6 +50,8 @@ Script ini adalah game tebak lubang berbasis Python. Kamu dapat mencoba menjalan
 <br>
 <br>
 
+<hr>
+
 # AUTHOR
 <h5>DEA AFRIZAL</h5><br>
 <p>Dea Afrizal 〰️
