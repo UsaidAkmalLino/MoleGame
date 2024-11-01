@@ -5,7 +5,8 @@ Game sederhana yang dibuat untuk mengimplementasikan hasil pembelajaran dari pla
 
 <pre>
 $user@terminal:<b>python3 GameMoleRat.py</b>
-    
+
+    _________________________________________________
     |                                               |\ 
     |  █░█░█ █▀▀ █░░ █▀▀ █▀█ █▀▄▀█   ▀█▀ █▀█        |█\ 
     |  ▀▄▀▄▀ ██▄ █▄▄ █▄▄ █▄█ █░▀░█   ░█░ █▄█        |██|
