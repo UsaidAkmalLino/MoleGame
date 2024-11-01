@@ -33,6 +33,7 @@ Script ini adalah game tebak lubang berbasis Python. Kamu dapat mencoba menjalan
 <br>
 <hr>
 <br>
+
 # Cara Bermain MOLEGAME
 <br>
 <ol>
