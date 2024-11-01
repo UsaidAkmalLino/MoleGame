@@ -34,10 +34,18 @@ Script ini adalah game tebak lubang berbasis Python. Kamu dapat mencoba menjalan
 
 # Cara Bermain MOLEGAME
 <ol>
-    <li><b>Masukan Nama Kamu(BEBAS)</b></li>
-    <li><b>Tebak atau Analisa Lubang yang mana yang di tempati si CUYPY(Si Tikus Tanah)</b></li>
-    <li><b>Beri Sedikit Tanggapan</b></li>
+    <li><b>clone repository git@github.com: UsaidAkmalLino/MoleGame.git</b></li><br>
+    <li><b>masuk kedalam repo yang sudah di clone</b></li><br>
+    <li><b>running program : MoleGames$ python3 GameMoleRat.py</b></li><br>
 </ol>
+<br>
+<hr>
+<br>
+<ul>
+    <li><b>Masukan Nama Kamu(BEBAS)</b></li><br>
+    <li><b>Tebak atau Analisa Lubang yang mana yang di tempati si CUYPY(Si Tikus Tanah)</b></li><br>
+    <li><b>Beri Sedikit Tanggapan</b></li><br>
+</ul>
 <br>
 <br>
 
