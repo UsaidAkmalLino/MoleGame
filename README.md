@@ -1,7 +1,7 @@
 # MoleGame
-Game sederhana yang dbuat untuk mengimplementasikan hasil pembelajaran dari playlist CuyUnivesity by Bang @DeaAfrizal, untuk cara memainkanya ada di bawah ya,thank you :)
+Game sederhana yang dibuat untuk mengimplementasikan hasil pembelajaran dari playlist CuyUnivesity by Bang @DeaAfrizal, untuk cara memainkanya ada di bawah ya,thank you :)
 
-# WELCOME TO MOLEGAME
+# WELCOME TO MOLEGAME V3 beta version
 
 <pre>
 $user@terminal:<b>python3 GameMoleRat.py</b>
@@ -31,7 +31,8 @@ Script ini adalah game tebak lubang berbasis Python. Kamu dapat mencoba menjalan
 [Klik di sini untuk menjalankan game di Google Colab](https://colab.research.google.com/github/UsaidAkmalLino/MoleGame/blob/main/GameMoleRat.ipynb)
 <br>
 <br>
-
+<hr>
+<br>
 # Cara Bermain MOLEGAME
 <br>
 <ol>
