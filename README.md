@@ -57,7 +57,7 @@ WELCOME TO THE GAMES AKMAL!!!
 # Game MOLEGAME
 <b>Tugas kamu adalah mencari si Tikus Tanah yang bernama CUYPY di banyaknya lubang yang ada </b>. Kamu dapat mencoba menjalankannya langsung di Google Colab melalui link di bawah ini: ini adalah V2 dari MoleGames, V3-nya masih belum bisa dijalankan di Google Colab
 
-[Klik di sini untuk menjalankan game di Google Colab](https://colab.research.google.com/github/UsaidAkmalLino/MoleGame/blob/main/GameMoleRat.ipynb)
+[Klik di sini untuk menjalankan game di Google Colab]()
 <br>
 <br>
 <hr>
